@@ -1,4 +1,4 @@
-<h3> 🐲: &nbsp;About me: </h3>
+<h3> 🐲 &nbsp;About me: </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e buscando sempre a melhor versão de mim.
 - 🎓 &nbsp; Estudando **Sistemas de Informação** na <a href="https://ufu.br/">UFU</a>.
