@@ -1,12 +1,12 @@
-<h3> 🐲 &nbsp;About me: </h3>
+## **Sobre mim:** ##
 
-- 🤔 &nbsp; Explorando novas tecnologias e buscando sempre a melhor versão de mim.
-- 🎓 &nbsp; Estudando **Sistemas de Informação** na <a href="https://ufu.br/">UFU</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Ruby, Rails e em breve ReScript**.
+- &nbsp;Explorando novas tecnologias e buscando sempre a melhor versão de mim.
+- &nbsp;Estudando **Sistemas de Informação** na <a href="https://ufu.br/">UFU</a>.
+- &nbsp;Aprendendo mais sobre **Ruby, Rails e em breve ReScript**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+## **Skills:**
 
-**Aplicações e Dados**
+## **Aplicações e Dados:** ##
 
   ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
   ![Ruby On Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
@@ -19,18 +19,18 @@
   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
-**DevOps**
+## **DevOps:** ##
 
   ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-**OS**
+## **OS:** ##
   
   ![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
 <br/>
 
-**Estatísticas**
+## **Estatísticas:** ##
 
 <a href="https://github.com/Cyytrus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyytrus&theme=tokyonight&hide_langs_below=1" />
@@ -42,7 +42,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+## Meios de contato
 
 <p align="left">
   <a href="paddcastro@gmail.com" alt="Gmail">
