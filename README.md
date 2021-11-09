@@ -1,3 +1,20 @@
+## Meios de contato
+
+<p align="left">
+  <a href="paddcastro@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=paddcastro@gmail.com" /></a>
+
+  <a href="https://www.linkedin.com/in/paulo-castro-9520481b6/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-castro-9520481b6/" /></a>
+
+  <a href="https://twitter.com/Cyytrus" alt="Twitter">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Cyytrus"/></a>
+  
+  
+  <a href="https://www.twitch.tv/Cyytrus1" alt="Twitch.tv">
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.tv/Cyytrus1"/></a>
+
+</p>  
 
 ## **Skills:**
 
@@ -37,21 +54,4 @@
 
 <br/>
 
-## Meios de contato
 
-<p align="left">
-  <a href="paddcastro@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=paddcastro@gmail.com" /></a>
-
-  <a href="https://www.linkedin.com/in/paulo-castro-9520481b6/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-castro-9520481b6/" /></a>
-
-  <a href="https://twitter.com/Cyytrus" alt="Twitter">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Cyytrus"/></a>
-  
-  
-  <a href="https://www.twitch.tv/Cyytrus1" alt="Twitch.tv">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.tv/Cyytrus1"/></a>
-
-
-</p>  
