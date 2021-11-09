@@ -1,8 +1,3 @@
-## **Sobre mim:** ##
-
-- &nbsp;Explorando novas tecnologias e buscando sempre a melhor versão de mim.
-- &nbsp;Estudando **Sistemas de Informação** na <a href="https://ufu.br/">UFU</a>.
-- &nbsp;Aprendendo mais sobre **Ruby, Rails e em breve ReScript**.
 
 ## **Skills:**
 
