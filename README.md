@@ -11,8 +11,8 @@
   <a href="https://twitter.com/Cyytrus" alt="Twitter">
   <img src="https://img.shields.io/badge/Cyytrus-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Cyytrus"/></a>
   
-  <a href="https://www.twitch.tv/Cyytrus1" alt="Twitch.tv">
-  <img src="https://img.shields.io/badge/Cyytrus1-9146FF?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.tv/Cyytrus1"/></a>
+  <a href="https://www.twitch.tv/cyytrushe4rt" alt="Twitch.tv">
+  <img src="https://img.shields.io/badge/cyytrushe4rt-9146FF?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.tv/cyytrushe4rt"/></a>
 
 </p>  
 
