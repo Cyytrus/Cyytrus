@@ -1,4 +1,4 @@
-## ***Meios de contato***:
+## ***Contact:***:
 
 <p align="left">
   <a href="paddcastro@gmail.com" alt="Gmail">
