@@ -1,4 +1,4 @@
-## ***Contact:***:
+## ***Contact:***
 
 <p align="left">
   <a href="paddcastro@gmail.com" alt="Gmail">
@@ -14,6 +14,8 @@
   <a href="https://www.twitch.tv/cyytrushe4rt" alt="Twitch.tv">
   <img src="https://img.shields.io/badge/cyytrushe4rt-9146FF?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.tv/cyytrushe4rt"/></a>
 
+  <a href="https://dev.to/cyytrus" alt="Dev.to">
+  <img src= "https://img.shields.io/badge/Cyytrus-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/cyytrus"/></a>
 </p>  
 
 ## ***Languages & Frameworks:***
