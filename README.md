@@ -7,7 +7,6 @@
   <a href="https://www.linkedin.com/in/paulo-castro-9520481b6/" alt="Linkedin">
   <img src="https://img.shields.io/badge/Paulo Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-castro-9520481b6/" /></a>
   
-  
   <a href="https://twitter.com/Cyytrus" alt="Twitter">
   <img src="https://img.shields.io/badge/Cyytrus-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Cyytrus"/></a>
   
@@ -17,6 +16,8 @@
   <a href="https://dev.to/cyytrus" alt="Dev.to">
   <img src= "https://img.shields.io/badge/Cyytrus-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/cyytrus"/></a>
 </p>  
+
+---
 
 <a href="https://github.com/Cyytrus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyytrus&theme=tokyonight&hide_langs_below=1" />
