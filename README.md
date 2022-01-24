@@ -1,4 +1,16 @@
-## ***Contact:***
+<p align="center">
+  <a href="https://github.com/Cyytrus">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyytrus&theme=tokyonight&hide_langs_below=1" />
+  </a>
+
+<p align="center">
+  <a href="https://www.ruby-lang.org/en/">
+     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ruby/ruby-original.svg" alt="Ruby" width="50" height="50">
+    
+  <a href="https://elixir-lang.org/">
+     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/elixir/elixir-original.svg" alt="Elixir" width="50" height="50">
+    
+---
 
 <p align="center">
   <a href="paddcastro@gmail.com" alt="Gmail">
@@ -17,18 +29,5 @@
   <img src= "https://img.shields.io/badge/Cyytrus-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/cyytrus"/></a>
 </p>  
 
----
-<p align="center">
-  <a href="https://github.com/Cyytrus">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyytrus&theme=tokyonight&hide_langs_below=1" />
-  </a>
-
-<p align="center">
-  <a href="https://www.ruby-lang.org/en/">
-     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ruby/ruby-original.svg" alt="Ruby" width="50" height="50">
-    
-  <a href="https://elixir-lang.org/">
-     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/elixir/elixir-original.svg" alt="Elixir" width="50" height="50">
-<br/>
 
 
