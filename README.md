@@ -6,7 +6,7 @@
 
   - I'm studying Information Systems Bachelors degree at ***Universidade Federal de Uberlândia (UFU)***.
 
----
+----
 
 <p align="center">
   <a href="https://github.com/Cyytrus">
@@ -20,7 +20,7 @@
   <a href="https://elixir-lang.org/">
      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/elixir/elixir-original.svg" alt="Elixir" width="50" height="50">
     
----
+----
 
 <p align="center">
   <a href="paddcastro@gmail.com" alt="Gmail">
