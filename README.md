@@ -1,6 +1,6 @@
 ## ***Who am I!? :thinking:***
 
-  - My name is Paulo Castro (*AKA Cyytrus*). I currently live in Uberlândia/MG, Brazil, and I am a 20yo **back-end developer focused on _Ruby_ and _Elixir_** languages, **but nothing prevents me from learning new programming languages**, I like HTML and CSS too. 
+  - My name is Paulo Castro (*AKA Cyytrus*). I currently live in Uberlândia/MG, Brazil, and I am a 20yo **back-end developer focused on _Ruby_ and _Elixir_** languages, **but nothing prevents me from learning new programming languages**, I like C, Haskell, PHP & Golang too. 
 
   - In my free time, I read books, do live coding streams at [twitch.tv](https://twitch.tv/cyytrushe4rt) and write some articles involving coding stuff, you can see them at my [dev.to](https://dev.to/cyytrus) profile! 
 
