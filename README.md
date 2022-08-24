@@ -1,10 +1,14 @@
 ## ***Who am I!? :thinking:***
 
-  - My name is Paulo Castro (*AKA Cyytrus*). I currently live in Uberlândia/MG, Brazil, and I am a 20yo **back-end developer focused on _Ruby_ and _Elixir_** languages, **but nothing prevents me from learning new programming languages**, I like C, Haskell, PHP & Golang too. 
+- My name is Paulo Castro (AKA Cyytrus). I currently live in Uberlândia/MG, Brazil, and I'm a 20yo back-end developer focused on Elixir and Ruby languages, but nothing prevents me from learning new programming languages. Functional languages and their frameworks are what I like to use. I'm also much interested in blockchains and web3 applications.
 
-  - In my free time, I read books, do live coding streams at [twitch.tv](https://twitch.tv/cyytrushe4rt) and write some articles involving coding stuff, you can see them at my [dev.to](https://dev.to/cyytrus) profile! 
+- I'm currently doing a Bachelor's of Information Systems degree at UFU - Universidade Federal de Uberlândia, one of the best Public Universities in Brazil and one of the few universities in my country with a Ph.D. program.
 
-  - I'm studying Information Systems Bachelors degree at ***Universidade Federal de Uberlândia (UFU)***.
+- In my free time, I read books, do live coding streams on twitch.tv and write some articles about coding. You can see them at my dev.to profile!
+
+- Learning Erlang and thinking about starting my studies about Rust and Solidity.
+
+- Technologies and knowledges that I use: Elixir, Phoenix, Docker, PostgreSQL, API'S REST, HTML, CSS, GraphQL, Unity tests, CI/CD, Clean code.
 
 ----
 
