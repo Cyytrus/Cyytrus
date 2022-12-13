@@ -1,14 +1,14 @@
 ## ***Who am I!? :thinking:***
 
-• A 20 yo developer focused on Elixir Lang, but nothing prevents me from learning new programming languages, especially functional ones.
+- A 20 yo developer focused on Elixir Lang, but nothing prevents me from learning new programming languages, especially functional ones.
 
-• I’m currently doing a Bachelor of Information Systems degree at one of the best Public Universities in Brazil.
+- I’m currently doing a Bachelor of Information Systems degree at one of the best Public Universities in Brazil.
 
-• In my spare time, I read books, stream code on twitchTV, and write about code. You can see them in my dev.to (it’s dev.to/cyytrus) and twitchTV (/cyytrus1) profiles!
+- In my spare time, I read books, stream code on twitchTV, and write about code. You can see them in my dev.to (it’s dev.to/cyytrus) and twitchTV (/cyytrus1) profiles!
 
-• Learning Erlang and thinking about starting my studies in Rust.
+- Learning Erlang and thinking about starting my studies in Rust.
 
-• Technologies I use: Elixir, Phoenix, Docker, PostgreSQL, API’S REST, HTML, CSS, GraphQL, Unity tests, CI/CD, Clean code.
+- Technologies I use: Elixir, Phoenix, Docker, PostgreSQL, API’S REST, HTML, CSS, GraphQL, Unity tests, CI/CD, Clean code.
 
 ----
 
