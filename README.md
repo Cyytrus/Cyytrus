@@ -6,7 +6,7 @@
 
 - In my spare time, I read books, stream code on twitchTV, and write about code. You can see them in my dev.to (it’s dev.to/cyytrus) and twitchTV (/cyytrus1) profiles!
 
-- Learning Erlang and thinking about starting my studies in Rust.
+- Learning Rust and Python.
 
 - Technologies I use: Elixir, Phoenix, Docker, PostgreSQL, API’S REST, HTML, CSS, GraphQL, Unity tests, CI/CD, Clean code.
 
