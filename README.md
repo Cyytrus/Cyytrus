@@ -1,6 +1,6 @@
 ## ***Who am I!? :thinking:***
 
-- A 20 yo developer focused on Elixir Lang, but nothing prevents me from learning new programming languages, especially functional ones.
+- A 21 yo developer focused on Elixir Lang, but nothing prevents me from learning new programming languages, especially functional ones.
 
 - I’m currently doing a Bachelor of Information Systems degree..
 
