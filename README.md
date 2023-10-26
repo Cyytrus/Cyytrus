@@ -1,14 +1,10 @@
 ## ***Who am I!? :thinking:***
 
-- A 21 yo developer focused on Elixir Lang, but nothing prevents me from learning new programming languages, especially functional ones.
+• Developer since the age of 14, self-taught. I decided to enter in the job market after 5 years of studying and deepening my knowledge. Currently, I use the Elixir language in my daily work. However, given my experience with various other languages such as C, C++, Erlang, Haskell, Python, Ruby, and Rust, nothing prevents me from learning a new language to adapt to a specific challenge or opportunity. This way, I can deliver high-quality software with end-to-end test coverage.
 
-- I’m currently doing a Bachelor of Information Systems degree..
+• I am currently pursuing a Bachelor's degree in Information Systems at the Federal University of Uberlândia.
 
-- In my spare time, I read books, stream code on twitchTV, and write about code. You can see them in my dev.to (it’s dev.to/cyytrus) and twitchTV (/cyytrus1) profiles!
-
-- Learning Rust and Python.
-
-- Technologies I use: Elixir, Phoenix, Docker, PostgreSQL, API’S REST, HTML, CSS, GraphQL, Unity tests, CI/CD, Clean code.
+• Technologies and techniques I use: Elixir, Phoenix, Python, Docker, PostgreSQL, REST APIs, HTML, CSS, GraphQL, Unit tests, CI/CD, Clean code, DDD, Clean architecture, Kafka.
 
 ----
 
