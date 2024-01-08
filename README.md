@@ -14,12 +14,14 @@
   </a>
 
 <p align="center">
-  <a href="https://www.ruby-lang.org/en/">
-     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ruby/ruby-original.svg" alt="Ruby" width="50" height="50">
+  <a href="https://www.erlang.org/docs">
+     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-original-wordmark.svg" alt="Erlang" width="50" height="50">
     
   <a href="https://elixir-lang.org/">
      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/elixir/elixir-original.svg" alt="Elixir" width="50" height="50">
     
+  <a href="https://www.ruby-lang.org/en/">
+     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ruby/ruby-original.svg" alt="Ruby" width="50" height="50">
 ----
 
 <p align="center">
